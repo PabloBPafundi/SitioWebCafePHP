@@ -1,0 +1,67 @@
+* {
+  margin: 0;
+  font-family: 'Lato', sans-serif;
+}
+
+h2{
+  font-family: 'Quicksand', sans-serif;
+}
+
+
+
+
+html {
+  scroll-behavior: smooth;
+}
+
+
+
+.title__origen {
+  left: 50%;
+  transform: translate(-50%, 50%);
+
+}
+
+
+.title__subcripcion{
+  
+
+  left: 50%;
+  transform: translate(-50%, 50%);
+}
+
+
+
+.button-group p,
+.button-group button {
+  margin: 5px;
+}
+
+.whatsapp-icon {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+}
+
+.margin__top{
+
+  margin-top: 120px;
+}
+
+
+.fcafe {
+  background-color: #D2B48C; 
+}
+
+.fcafeButton {
+  background-color: #7B563F !important;
+  color: white !important;
+}
+
+
+.blog-img {
+  opacity: 0.5; 
+ 
+}
+
+
